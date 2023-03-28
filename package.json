@@ -1,0 +1,29 @@
+{
+  "name": "int-fs7-expressjs-1",
+  "version": "1.0.0",
+  "description": "Express server with CRUD operations using MVC architecture",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Integrify-Finland/int-fs7-ExpressJS-1.git"
+  },
+  "keywords": [
+    "express",
+    "MVC",
+    "CRUD",
+    "assignments"
+  ],
+  "author": "Vincent Limo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Integrify-Finland/int-fs7-ExpressJS-1/issues"
+  },
+  "homepage": "https://github.com/Integrify-Finland/int-fs7-ExpressJS-1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
