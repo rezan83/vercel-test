@@ -5,8 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Integrify-Finland/int-fs7-ExpressJS-1.git"
